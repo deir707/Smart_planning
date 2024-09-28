@@ -1,0 +1,56 @@
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\bin\Debug\smart_planning.exe.config
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\bin\Debug\smart_planning.exe
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\bin\Debug\smart_planning.pdb
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.csproj.AssemblyReference.cache
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.csproj.SuggestedBindingRedirects.cache
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Assistant.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Welcome.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Properties.Resources.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.csproj.GenerateResource.cache
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.csproj.CoreCompileInputs.cache
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.exe
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.pdb
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Main_menu.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Home_control.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Washing_machine.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Air_conditioning.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Lights.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Feeder.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Live.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Pet_care.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\bin\Debug\Interop.WMPLib.dll
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\Interop.WMPLib.dll
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.csproj.ResolveComReference.cache
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Plan_day.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Shoes_choice.resources
+C:\Users\deir7\Desktop\PMS\allilepidrasi\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Scheduling.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\bin\Debug\smart_planning.exe.config
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\bin\Debug\smart_planning.exe
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\bin\Debug\smart_planning.pdb
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\bin\Debug\Interop.WMPLib.dll
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\bin\Debug\AxInterop.WMPLib.dll
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.csproj.AssemblyReference.cache
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.csproj.SuggestedBindingRedirects.cache
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\Interop.WMPLib.dll
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\AxInterop.WMPLib.dll
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.csproj.ResolveComReference.cache
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Air_conditioning.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Assistant.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Feeder.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Home_control.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Lights.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Live.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Main_menu.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Pet_care.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Plan_day.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Scheduling.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Shoes_choice.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Washing_machine.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Welcome.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.Properties.Resources.resources
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.csproj.GenerateResource.cache
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.csproj.CoreCompileInputs.cache
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.exe
+D:\Docs\PMS\Αλληλεπίδραση Ανθρώπου - Υπολογιστή\ergasia\smart_planning\smart_planning\obj\Debug\smart_planning.pdb
